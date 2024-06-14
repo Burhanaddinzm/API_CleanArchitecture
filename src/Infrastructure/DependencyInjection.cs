@@ -16,7 +16,9 @@ public static class DependencyInjection
         services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("Default")));
 
         services.AddScoped<ICategoryRepository, CategoryRepository>();
+
         services.AddScoped<ICategoryService, CategoryManager>();
+
         return services;
     }
 }

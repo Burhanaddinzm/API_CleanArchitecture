@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3968uFQO5EyBHJvC+ZbNyfJVEhL+8qyy4q5aoqIyGLo=",
+  "Hash": "HGyWItL/xiXbs3l4on32x88jQUJDJ4XeQNE7brgPVdg=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\22607ec2-74fc-489c-9445-785e45b1aa61.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Burhan\\source\\repos\\API\\src\\WebApi\\wwwroot\\uploads\\a4661993-b57a-4c78-b4fc-379761242961.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Burhan\\source\\repos\\API\\src\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "uploads/a4661993-b57a-4c78-b4fc-379761242961.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a4661993-b57a-4c78-b4fc-379761242961.jpg"
     },
     {
       "Identity": "C:\\Users\\Burhan\\source\\repos\\API\\src\\WebApi\\wwwroot\\uploads\\bb5cdddd-02f5-4d97-adba-ab2699e01c8e.jpg",
