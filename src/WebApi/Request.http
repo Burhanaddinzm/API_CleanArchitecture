@@ -1,0 +1,6 @@
+@Host = http://localhost:5268
+
+GET {{Host}}/api/Categories
+Content-Type: application/json
+
+###
